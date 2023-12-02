@@ -2,96 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Weilian Li
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd July 1993
+    - name: Place of Birth
+      value: Sichuan Dazhou, P. R. CHINA
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Geomatics Science and Technology
+      institution: Faculty of Geosciences and Environmental Engineering, Southwest Jiaotong University, China
+      year: 2015.09 - 2020.12
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation:&nbsp;An On-demand Construction Method of Disaster Scenes for Multitype Users
+        - Supervisor:&nbsp;Prof. Jun Zhu
+
+    - title: B.Eng. in Surveying and Mapping
+      institution: School of Geology and Geomatics, Tianjin Chengjian University, China
+      year: 2011.09 - 2015.07
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor:&nbsp;Ms. Dongying Wei
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Research Associate
+      institution: Computational Methods Lab, HafenCity University Hamburg, Germany
+      year: 2023.11 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor:&nbsp;Prof. Dr.-Ing. Youness Dehbi
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Postdoctoral Researcher
+      institution: Institute of Geodesy and Geoinformation, University of Bonn, Germany
+      year: 2021.10 - 2023.10
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor:&nbsp;Prof. Dr.-Ing. Jan Haunert
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Guest Researcher
+      institution: Computational Methods Lab, HafenCity University Hamburg, Germany
+      year: 2021.02 - 2021.09
       description:
+        - Advisor:&nbsp;Prof. Dr.-Ing. Jochen Schiewe
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: Faculty of Geosciences and Environmental Engineering, Southwest Jiaotong University, China
+      year: 2021.01 - 2021.02
+      description:
+        - Advisor:&nbsp;Prof. Dr.Jun Zhu
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Virtual Geographic Environment
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Geovisualization for Disaster Management
+        - Cartography and Geospatial Cognition
+    - title: VGIscience.
       items:
-        - Description 1.
-        - Description 2.
+        - Machine Learning for Geoinformation
+        # - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
