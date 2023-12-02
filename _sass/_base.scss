@@ -869,7 +869,7 @@ progress {
 
   /* Dimensions */
   width: 100%;
-  height: 1px;
+  height: 3px;
 
   /* Reset the appearance */
   -webkit-appearance: none;
@@ -910,7 +910,7 @@ progress::-moz-progress-bar {
 
 .progress-bar {
   background-color: var(--global-theme-color);
-  width: 0%;
+  width: 100%;
   display: block;
   height: inherit;
 }
