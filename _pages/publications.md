@@ -21,3 +21,11 @@ An up-to-date list is available on [Google Scholar](https://scholar.google.com.h
 {% bibliography -f books %}
 
 </div>
+
+
+<b>Patents</b>
+<div class="publications">
+
+{% bibliography -f patents %}
+
+</div>
