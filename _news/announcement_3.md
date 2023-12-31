@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I am pleased that our article entitled “Visual attention-guided augmented representation of geographic scenes: A case of bridge stress visualization” has been accepted for publication by the *International Journal of Geographical Information Science*:tada::tada::tada:.
+I am pleased that our article entitled "Visual attention-guided augmented representation of geographic scenes: A case of bridge stress visualization" has been accepted for publication by the *International Journal of Geographical Information Science*:tada::tada::tada:.
 
 

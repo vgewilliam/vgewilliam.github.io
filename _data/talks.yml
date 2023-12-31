@@ -1,0 +1,48 @@
+
+- title:
+  type: time_table
+  contents:
+    - title: Immersive Virtual Reality to Verify the As-built State of Electric Line Networks in Buildings
+      maindescription: The 18th International 3DGeoInfo Conference 2023
+      year: 2023.09.12 - 14
+      location: Munich, Germany
+ 
+    - title: An Interactive Evacuation Tool to Improve the Public Flood Perception
+      maindescription: The ISPRS 2023 Geospatial Week
+      year: 2023.09.02 - 07
+      location: Cairo, Egypt
+
+    - title: Integrating Cellular Automata Model into 3D Representation for Enhancing Flood Risk Communication
+      maindescription: The 19th General Assembly of the International Cartographic Association (ICA) and the 31th International Cartographic Conference
+      year: 2023.08.13 - 18
+      location: Cape Town, Africa
+    
+    - title: Geographic modeling representation and disaster risk communication
+      maindescription: The Outstanding Doctoral Forum on the 4th China Spatial Data Intelligence Academic Conference
+      year: 2023.04.13 - 15
+      location: Nanchang, China
+    
+    - title: Three-dimensional virtual representation for the whole process of dam-break floods from a geospatial storytelling perspective
+      maindescription: The 29th International Conference on Geoinformatics in 2022 and the 30th Anniversary of the Founding of CPGIS
+      year: 2022.08.15 - 18
+      location: Beijing, China
+    
+    - title: A fusion visualization method for disaster information based on self-explanatory symbols and photorealistic scene cooperation
+      maindescription: 1st Regional Conference on Environmental Modeling and Software
+      year: 2019.05.18 - 20
+      location: Nanjing, China
+    
+    - title: Optimization organization and adaptive visualization of complicated mountain disaster 3D scenes for diverse terminals
+      maindescription: ISPRS Technical Commission IV Symposium
+      year: 2018.10.01 - 05
+      location: Delft, Netherlands
+    
+    - title: A fusion modeling and interaction method with spatial semantic constraint for debris flow VR scene
+      maindescription: The 26th International Conference on Geoinformatics
+      year: 2018.06.28 - 30
+      location: Kunming, China
+    
+    - title: Display and interaction of disaster scene for mobile virtual reality
+      maindescription: The 25th International Conference on Geoinformatics
+      year: 2017.08.02 - 04
+      location: Buffalo, USA
