@@ -1,20 +1,81 @@
 ---
 layout: page
-title: NSFC Project
-description: Grant No. 42201446, ¥300,000
-img: assets/img/Augmented_representation.jpg
+title: project 1
+description: a project with a background image
+img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: li2022three, li2022investigations,li2021augmented
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-**Title:** An Augmented Representation Method of Disaster Virtual Geographic Environment with Visual Saliency Constraints
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-**Sponsor:** National Natural Science Foundation of China
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-**Duration:** 2023.01 -- 2025.12
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
-**Key words:** Virtual geographic environment; Disaster information; Augmented representation; Visual saliency; Intelligent recommendation
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-**Abstract:** It is of great importance and urgency for disaster prevention and mitigation to construct a virtual geographic environment for disaster information representation and sharing, to further assist in disaster decision-making, publicity and education, and to enhance people's risk perception. However, existing disaster visualization methods do not consider the balance between the amount of scene information and cognitive load, which leads to some problems such as unfocused representation of disaster information, overcrowded and confused scenes, and low cognitive efficiency of users. This project will systematically research on augmented representation of disaster virtual geographic environment with visual saliency constraints. Specially, the project mainly includes the following parts: (1) the intelligent recommendation of disaster information taking into account user preferences, which optimizes the selection of relevant disaster information adaptive to user needs; (2) the augmented representation of disaster scenes guided by visual attention, which achieves rapid focus of scene information and improves user awareness; (3) the cognitive evaluation of disaster scenes based on virtual travel behavior, which is used to verify the effectiveness and efficiency of augmented representation. A prototype system is developed to conduct experiment analysis with flash flood and debris flow as typical examples. The expected results can improve the effectiveness of disaster information dissemination and user cognitive efficiency, and further promote the development of geospatial cognition and virtual geographical environment. 
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+
+The code is simple.
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+Here's the code for the last row of images above:
+
+{% raw %}
+```html
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+```
+{% endraw %}
