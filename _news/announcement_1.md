@@ -6,5 +6,7 @@ related_posts: false
 ---
 
 Honored to be awarded the First Prize in Geoinformation Science and Technology Progress Award by the China Association for Geographic Information Systems:tada::tada::tada: Our winning proposal is entitled "Key Technologies and Applications of 3D Intelligent Services for Disaster Emergency".
-<img src="{{ site.baseurl }}/assets/img/news/地理信息科技进步奖.jpg" alt="Alt Text" width="600" height="auto">
+<div style="text-align: center;">
+<img src="{{ site.baseurl }}/assets/img/news/地理信息科技进步奖.jpg" alt="Alt Text" width="550" height="auto">
+</div>
 
