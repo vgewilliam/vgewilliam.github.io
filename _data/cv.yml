@@ -29,11 +29,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Senior Research Associate
-      institution: Computational Methods Lab, HafenCity University Hamburg, Germany
-      year: 2023.11 - Present
-      description:
-        - Advisor:&nbsp;Prof. Dr.-Ing. Youness Dehbi
+    # - title: Senior Research Associate
+    #   institution: Computational Methods Lab, HafenCity University Hamburg, Germany
+    #   year: 2023.11 - Present
+    #   description:
+    #     - Advisor:&nbsp;Prof. Dr.-Ing. Youness Dehbi
         # - Description 2.
         # - title: Description 3.
         #   contents:
