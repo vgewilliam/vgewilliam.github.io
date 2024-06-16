@@ -20,11 +20,11 @@
         - Dissertation:&nbsp;An On-demand Construction Method of Disaster Scenes for Multitype Users
         - Supervisor:&nbsp;Prof. Jun Zhu, Prof. Qing Zhu
 
-    - title: B.Eng. in Surveying and Mapping
-      institution: School of Geology and Geomatics, Tianjin Chengjian University, China
-      year: 2011.09 - 2015.07
-      description:
-        - Supervisor:&nbsp;Ms. Dongying Wei
+    # - title: B.Eng. in Surveying and Mapping
+    #   institution: School of Geology and Geomatics, Tianjin Chengjian University, China
+    #   year: 2011.09 - 2015.07
+    #   description:
+    #     - Supervisor:&nbsp;Ms. Dongying Wei
 
 - title: Experience
   type: time_table
