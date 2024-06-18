@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, thanks for visiting my homepage!:clap::clap::clap:
 
-I am Weilian Li, working in the Computational Methods Lab led by [**Prof. Dr.-Ing. Youness Dehbi**](https://www.hcu-hamburg.de/prof-dr-ing-youness-dehbi) at the HafenCity University Hamburg, Germany. I received my Ph.D. in Geomatics Science and Technology at Southwest Jiaotong University, China, in December 2020. Then, I finished my postdoc research stay in the Geoinformation Group chaired by [**Prof. Dr.-Ing. Jan-Henrik Haunert**](https://www.geoinfo.uni-bonn.de/en/team/haunert) at the University of Bonn in October 2023.
+I am Weilian Li, working in the Computational Methods Lab led by [**Prof. Dr.-Ing. Youness Dehbi**](https://www.hcu-hamburg.de/prof-dr-ing-youness-dehbi) at the HafenCity University Hamburg, Germany. 
+I received my Ph.D. in Geomatics Science and Technology at Southwest Jiaotong University, China, in December 2020. Then, I finished my postdoc research stay in the Geoinformation Group chaired by [**Prof. Dr.-Ing. Jan-Henrik Haunert**](https://www.geoinfo.uni-bonn.de/en/team/haunert) at the University of Bonn in October 2023.
 
 My research primarily focuses on the application of Geographic Information Systems (GIS) in disaster management, but also methodological expertise in Machine Learning. I have a strong interest in topics related to smart cities, disaster management, and digital twins.
 
