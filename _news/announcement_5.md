@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Delighted to receive the best paper award in the category SmartPeople at the *8th International Conference on SmartData and SmartCities (SDSC2024)* in Athens for our paper entitled "Safety assessment of cycling routes in urban environments":tada::tada::tada:.
+Delighted to receive the best paper award in the category Smart People at the *8th International Conference on SmartData and SmartCities (SDSC2024)* in Athens for our paper entitled "Safety assessment of cycling routes in urban environments":tada::tada::tada:.
 <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/img/news/SDSC 2024 Best Paper.jpg" alt="Alt Text" width="540" height="auto">
 </div>
