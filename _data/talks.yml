@@ -2,6 +2,11 @@
 - title:
   type: time_table
   contents:
+    - title: Safety Assessment of Cycling Routes in Urban Environments
+      maindescription: The 8th International Conference on Smart Data and Smart Cities
+      year: 2024.06.04 - 07
+      location: Athens, Greece
+      
     - title: Immersive Virtual Reality to Verify the As-built State of Electric Line Networks in Buildings
       maindescription: The 18th International 3DGeoInfo Conference 2023
       year: 2023.09.12 - 14
@@ -17,32 +22,32 @@
       year: 2023.08.13 - 18
       location: Cape Town, Africa
     
-    - title: Geographic modeling representation and disaster risk communication
+    - title: Geographic Modeling Representation and Disaster Risk Communication
       maindescription: The Outstanding Doctoral Forum on the 4th China Spatial Data Intelligence Academic Conference
       year: 2023.04.13 - 15
       location: Nanchang, China
     
-    - title: Three-dimensional virtual representation for the whole process of dam-break floods from a geospatial storytelling perspective
+    - title: Three-dimensional Virtual Representation for the Whole Process of Dam-break Floods from a Geospatial Storytelling Perspective
       maindescription: The 29th International Conference on Geoinformatics in 2022 and the 30th Anniversary of the Founding of CPGIS
       year: 2022.08.15 - 18
       location: Beijing, China
     
-    - title: A fusion visualization method for disaster information based on self-explanatory symbols and photorealistic scene cooperation
-      maindescription: 1st Regional Conference on Environmental Modeling and Software
+    - title: A Fusion Visualization Method for Disaster Information based on Self-explanatory Symbols and Photorealistic Scene Cooperation
+      maindescription: The 1st Regional Conference on Environmental Modeling and Software
       year: 2019.05.18 - 20
       location: Nanjing, China
     
-    - title: Optimization organization and adaptive visualization of complicated mountain disaster 3D scenes for diverse terminals
+    - title: Optimization Organization and Adaptive Visualization of Complicated Mountain Disaster 3D scenes for Diverse Terminals
       maindescription: ISPRS Technical Commission IV Symposium
       year: 2018.10.01 - 05
       location: Delft, Netherlands
     
-    - title: A fusion modeling and interaction method with spatial semantic constraint for debris flow VR scene
+    - title: A Fusion Modeling and Interaction Method with Spatial Semantic Constraint for Debris Flow VR Scene
       maindescription: The 26th International Conference on Geoinformatics
       year: 2018.06.28 - 30
       location: Kunming, China
     
-    - title: Display and interaction of disaster scene for mobile virtual reality
+    - title: Display and Interaction of Disaster Scene for Mobile Virtual Reality
       maindescription: The 25th International Conference on Geoinformatics
       year: 2017.08.02 - 04
       location: Buffalo, USA
