@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to share that our article entitled "Informed sampling and recommendation of cycling routes: leveraging crowd-sourced trajectories with weighted-latent Dirichlet allocation" has been accepted for publication by the *International Journal of Geographical Information Science*:tada::tada::tada:.
+I'm pleased that our article entitled "Informed sampling and recommendation of cycling routes: leveraging crowd-sourced trajectories with weighted-latent Dirichlet allocation" has been accepted for publication by the *International Journal of Geographical Information Science*:tada::tada::tada:.
 
 
