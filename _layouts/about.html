@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
@@ -59,13 +60,16 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
-                {% include social.html %} <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=OHU-ERoGC4EunCd-4-TJsdxaiv3v0C8OTzcLp9GsGnU"></script>
+                {% include social.html %}
+                <div class="globe" style="width: 15%; height: 15%;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=OHU-ERoGC4EunCd-4-TJsdxaiv3v0C8OTzcLp9GsGnU"></script>
+                </div>
               </div>
-
+              
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>

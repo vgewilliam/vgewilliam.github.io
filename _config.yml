@@ -105,7 +105,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 
 contact_note: >
 
-  Best way to reach me is via email.
+  Best way to reach me is via <a href="mailto:vgewilliam@my.swjtu.edu.cn">email</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
