@@ -3,16 +3,16 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Postdoctoral Research Associate | GISer & Cartographer
+subtitle: Associate Professor | GISer & Cartographer
 
 profile:
   align: right
   image: Bio_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computational Methods Lab</p>
-    <p>HafenCity University Hamburg</p>
-    <p>Henning-Voscherau-Platz 1, 20457 Hamburg, Germany</p>
+    <p>Faculty of Geosciences and Engineering</p>
+    <p>Southwest Jiaotong University</p>
+    <p>Xi'an road 999, 611756 Chengdu, China</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,8 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, thanks for visiting my homepage!:clap::clap::clap:
 
-I am Weilian Li, working in the Computational Methods Lab led by [**Prof. Dr.-Ing. Youness Dehbi**](https://www.hcu-hamburg.de/prof-dr-ing-youness-dehbi) at the HafenCity University Hamburg, Germany. 
-I received my Ph.D. in Geomatics Science and Technology at Southwest Jiaotong University, China, in December 2020. Then, I finished my postdoc research stay in the Geoinformation Group chaired by [**Prof. Dr.-Ing. Jan-Henrik Haunert**](https://www.geoinfo.uni-bonn.de/en/team/haunert) at the University of Bonn in October 2023.
+I am Weilian Li, working in the Faculty of Geosciences and Engineering at Southwest Jiaotong University, China. I received my Ph.D. in Geomatics Science and Technology at Southwest Jiaotong University, China, in December 2020. Then, I finished my postdoc research stay in the Geoinformation Group chaired by [**Prof. Dr.-Ing. Jan-Henrik Haunert**](https://www.geoinfo.uni-bonn.de/en/team/haunert) at the University of Bonn in October 2023. Additionally, I had one year stay as a Senior Research Associate in the Computational Methods Lab led by [**Prof. Dr.-Ing. Youness Dehbi**](https://www.hcu-hamburg.de/prof-dr-ing-youness-dehbi) at the HafenCity University Hamburg, Germany. 
 
 My research primarily focuses on the application of Geographic Information Systems (GIS) in disaster management, but also methodological expertise in Machine Learning. I have a strong interest in topics related to smart cities, disaster management, and digital twins.
 
