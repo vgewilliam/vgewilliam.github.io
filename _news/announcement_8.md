@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I'm pleased that our proposal entitled "A high-precision digital twin modeling method for construction scenes of complex underground stations guided by knowledge" has been approved by the *National Natural Science Foundation of China (NSFC)*.
+I'm pleased that proposal entitled "A high-precision digital twin modeling method for construction scenes of complex underground stations guided by knowledge" has been approved by the *National Natural Science Foundation of China (NSFC)*.
 
 
