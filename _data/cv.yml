@@ -10,15 +10,15 @@
     - name: Languages
       value: Chinese, English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Geomatics Science and Technology
-      institution: Faculty of Geosciences and Environmental Engineering, Southwest Jiaotong University, China
-      year: 2015.09 - 2020.12
-      description:
-        - Dissertation:&nbsp;An On-demand Construction Method of Disaster Scenes for Multitype Users
-        - Supervisor:&nbsp;Prof. Jun Zhu, Prof. Qing Zhu
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Ph.D. in Geomatics Science and Technology
+#       institution: Faculty of Geosciences and Environmental Engineering, Southwest Jiaotong University, China
+#       year: 2015.09 - 2020.12
+#       description:
+#         - Dissertation:&nbsp;An On-demand Construction Method of Disaster Scenes for Multitype Users
+#         - Supervisor:&nbsp;Prof. Jun Zhu, Prof. Qing Zhu
 
     # - title: B.Eng. in Surveying and Mapping
     #   institution: School of Geology and Geomatics, Tianjin Chengjian University, China
