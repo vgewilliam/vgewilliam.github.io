@@ -2,6 +2,26 @@
 - title:
   type: time_table
   contents:
+    - title: Fusion Modelling and Augmented Representation of Disaster Scenes Guided by Knowledge
+      maindescription: The 11th National Conference on Cartography and Geographic Information Systems
+      year: 2025.09.19 - 21
+      location: Najing, China
+
+    - title: VR Panoramic Data-Driven Digital Twin Modeling Method for Flood Disaster Scenes
+      maindescription: The 7th National Forum on Quantitative Remote Sensing
+      year: 2025.07.03 - 06
+      location: Changchun, China
+
+    - title: Digital Twin Empowers Intelligent Construction-A Case Study on Digital Construction of Bridges
+      maindescription: The 14th International Symposium on Digital Earth
+      year: 2025.04.23 - 25
+      location: Chongqing, China
+    
+    - title: Digital Twin Empowers Intelligent Construction-A Case Study on Digital Construction of Bridges
+      maindescription: ISPRS Technical Commission IV Symposium 2024
+      year: 2024.10.22 - 25
+      location: Perth, Australia
+
     - title: Safety Assessment of Cycling Routes in Urban Environments
       maindescription: The 8th International Conference on Smart Data and Smart Cities
       year: 2024.06.04 - 07
