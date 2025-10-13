@@ -1,10 +1,13 @@
 - title: Membership in Scientific Organizations and Committees
   type: time_table
   contents:
+    - title: Executive Committee Member of ACM SIGSPATIAL CHINA
+      institution: ACM SIGSPATIAL CHINA
+      year: 2025.04 - Present
+    
     - title: Member of the UN-GGIM Academic Network
       institution: United Nations Committee of Experts on Global Geospatial Information Management Academic Network
       year: 2023.06 - Present
-
 
     - title: Secretary of the ISPRS ICWG III/IVa on Disaster Management
       institution: International Society for Photogrammetry and Remote Sensing Working Group ICWG III/IVa
@@ -25,6 +28,10 @@
 - title: Professional Activities
   type: time_table
   contents:
+    - title: Youth Editorial Board Member
+      department: China Earthquake Engineering Journal (ISSN 1000-0844)
+      year: 2025.04 - Present
+    
     - title: Topic Editor
       department: Big Earth Data (ISSN 2574-5417)
       year: 2023.09 - Present
