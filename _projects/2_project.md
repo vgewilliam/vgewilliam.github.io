@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Open Fund
-description: Grant No. 2022-2-B-1, ¥20,000
-img: assets/img/Fire_evacuation.jpg
-importance: 2
+title: NSFC General Project
+description: Grant No. 42571503, ¥530,000
+img: assets/img/NSFC General Project.jpg
+importance: 1
 category: work
 # giscus_comments: true
 ---
 
 
-**Title:** Virtual Reality Simulation for Mass Evacuation in Fire Emergencies Aimed at Urban Safety and Disaster Reduction
+**Title:** A High-precision Digital Twin Modeling Method for Construction Scenes of Complex Underground Stations Guided by Knowledge
 
-**Sponsor:** Guangdong–Hong Kong-Macau Joint Laboratory for Smart Cities
+**Sponsor:** National Natural Science Foundation of China
 
-**Duration:** 2023.04 -- 2024.08
+**Duration:** 2026.01 -- 2029.12
 
-**Key words:** Crowd simulation; Virtual reality; Dynamic chain navigation grid; Cellular automata; Vertex raster
+**Key words:** Virtual Geographic Environments; Underground Station Construction Scenes; High-precision Twin Modelling;  Knowledge Graphs;  Large Language Models
 
-**Abstract:** Conducting large-scale crowd evacuation simulations in virtual reality (VR) holds significant importance for urban safety management and disaster emergency response, particularly in the context of fire incidents. Existing methods for simulating large-scale crowd evacuation in the event of a fire suffer from issues such as low computational efficiency and inadequate visualization rendering. To address these challenges, this project aims to systematically investigate VR simulation methods for large-scale crowd evacuation in the context of urban safety and disaster risk reduction. The key components of this research project include: (1) Develop an algorithm based on improved cellular automata to construct a chain navigation grid specifically designed for large-scale crowd evacuation; (2) Devise a method based on vertex grids to optimize the visualization rendering of large-scale crowds, thereby enhancing the efficiency of crowd evacuation simulations; (3) Develop a prototype system and conduct experimental analyses using a large shopping mall as a case study area to validate the proposed methods and algorithms. The anticipated outcomes of this project are expected to directly benefit the simulation of large-scale crowd evacuation in urban public areas in the event of a fire. The project aims to provide crucial technological support for urban fire emergency response and informed decision-making.
+**Abstract:** High-precision digital twin scenes are the critical foundation for achieving the intelligent construction of complex underground stations. The construction of underground stations involves complex procedures, numerous influencing factors, and dynamic environmental conditions, leading to difficulties in characterizing scene object relationships, seamless integration modeling, and low update efficiency. This project aims to investigate the dynamic association representation patterns of all elements in construction scenes of complex underground stations, reveal the coupling mechanisms between multi-source data and scene objects of underground station construction, and innovate a high-precision digital twin modeling method for construction scenes of complex underground stations guided by knowledge. Primarily, the project mainly includes the following parts: (1) automatic construction of knowledge graphs for underground station construction scenes by integrating large language models, which accurately portray all elements and their spatiotemporal and semantic relationships involved in construction scenes of underground stations; (2) high-precision fusion modeling for construction scenes of underground stations guided by structured knowledge, which generates a high-precision digital twin model of construction scenes at the component level; (3) dynamic updates of underground station construction scenes by synergy of sensing Data and simulation models, which realizes virtual-real symbiosis between twin scenes and construction environments; (4) implementation of prototype system and experiment analysis. The expected results can advance theories and methods for geospatial digital twin modeling, provide key technical support for intelligent underground station construction, and demonstrate significant potential for broader applications in complex underground infrastructure construction, such as the Yaxia project.

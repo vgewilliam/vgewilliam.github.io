@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NSFC Project
+title: NSFC Young Scientists Fund
 description: Grant No. 42201446, ¥300,000
 img: assets/img/Augmented_representation.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: li2022three, li2022investigations,li2021augmented
 ---
